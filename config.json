@@ -1,0 +1,6 @@
+{
+  "name": "Instead",
+  "settings": {
+    "Lua.runtime.version": "Lua 5.2"
+  }
+}
