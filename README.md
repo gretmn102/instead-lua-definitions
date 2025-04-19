@@ -1,3 +1,3 @@
-# instead-lua-difinitions
+# instead-lua-definitions
 
-A Lua language server add-on for writing games on [INSTEAD](https://github.com/instead-hub/instead).
+This repository contains the type definitions for [INSTEAD](https://github.com/instead-hub/instead) that can be used by [Sumneko's Lua Language Server](https://github.com/LuaLS/lua-language-server).
