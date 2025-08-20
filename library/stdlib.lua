@@ -1,5 +1,9 @@
 ---@meta
 
+---См. разницу между `require` [тут](https://github.com/instead-hub/instead/blob/master/doc/modules3-ru.md#игровой-мир)
+---@param path string
+function include(path) end
+
 ---@alias RoomId string
 
 ---@class Player: Obj
